@@ -1,0 +1,14 @@
+Ejemplos de software
+Navegadores web: Google Chrome, Mozilla Firefox, Opera, Safari y Microsoft Edge.
+
+Antivirus: Avast Antivirus, Kaspersky Anti-Virus, ESET NOD32 Antivirus, Microsoft Defender y Avira Antivirus.
+
+Videojuegos: Roblox, Minecraft, y toda la serie de Grand Theft Auto (GTA).
+
+Reproductores multimedia: VLC media player, KMPlayer, PotPlayer y SMPlayer.
+
+Aplicaciones de dibujo: GIMP, Krita, MediBang Paint, y Affinity Photo.
+
+Sistemas operativos: Windows, GNU/Linux, macOS, Android y iOS.
+
+Paquetes de ofimática: Microsoft Office, Google Docs Editors, iWork, OpenOffice y LibreOffice.

@@ -1,0 +1,8 @@
+Memoria RAM
+La llamada memoria RAM o Random Access Memory almacena datos e instrucciones de los programas que se requieren en un momento determinado. Esta información es usada en tiempo real por la CPU o unidad de procesamiento del equipo. 
+
+Memoria caché
+Es una memoria que se sitúa entre la RAM y el procesador del ordenador, y que acelera el intercambio de datos. Este tipo de memoria, que suele pasar desapercibida para el usuario corriente, hace que los procesos en el ordenador se ejecuten más rápido. De esta forma evita, por ejemplo, que el procesador tenga que esperar
+
+Memoria ROM
+Las siglas responden a Read Only Memory. Es decir, que es una memoria solo de lectura. Donde los datos se leen y usan, pero no se modifican. En el módulo de memoria ROM de un ordenador la información permanece, incluso cuando se apaga el equipo o se queda momentáneamente sin energía eléctrica
